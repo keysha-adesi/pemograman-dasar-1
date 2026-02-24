@@ -16,6 +16,8 @@ int main() { //mulai
 
     //langakah 5
     cout << "hasilnya = " << luas << endl;
+    cout << "terimakasih";
+    
     
 
 }
