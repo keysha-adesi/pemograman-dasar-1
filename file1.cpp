@@ -7,6 +7,7 @@ int main(){
 
     cout << "ini string" << end1
     cout << 123 << end1;
+    cout << umur ;
 
     
 }
