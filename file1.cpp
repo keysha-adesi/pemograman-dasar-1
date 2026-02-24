@@ -6,6 +6,7 @@ int main(){
     umur = 20;
 
     cout << "ini string" << end1
+    cout << 123 << end1;
 
     
 }
