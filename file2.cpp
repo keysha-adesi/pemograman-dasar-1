@@ -10,5 +10,10 @@ int main() { //mulai
 
     //langkah3
     cout << "masukan lebar =";
+
+    //langkah 4
+    luas = p = l;
+    
 }
+
 
