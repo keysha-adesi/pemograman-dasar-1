@@ -13,7 +13,11 @@ int main() { //mulai
 
     //langkah 4
     luas = p = l;
+
+    //langakah 5
+    cout << "hasilnya = " << luas << endl;
     
+
 }
 
 
