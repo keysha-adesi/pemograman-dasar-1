@@ -3,5 +3,12 @@ using namespace std;
 
 int main() { //mulai
     int p, l, luas; //deklasi
+    //langkah2
+    cout << "masukan panjang = ";
+    cin >> p;
+    
+
+    //langkah3
+    cout << "masukan lebar =";
 }
 
